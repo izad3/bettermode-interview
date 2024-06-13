@@ -1,0 +1,25 @@
+[
+  {
+    "context": "POST",
+    "entityType": null,
+    "name": "Mark as favorite",
+    "description": null,
+    "favicon": "https://global-production-us-east-1.imgix.net/QdUL1yK8f6hWkUmyJIG3S?fit=max&w=1000&auto=compress,format",
+    "key": "mark-as-favorite",
+    "interactionUrl": null,
+    "states": [
+      {
+        "state": "unmarked",
+        "name": null,
+        "description": null,
+        "favicon": null
+      },
+      {
+        "state": "marked",
+        "name": "Unmark",
+        "description": null,
+        "favicon": "4yeqKGTzI1fRUgt7xQp64"
+      }
+    ]
+  }
+]

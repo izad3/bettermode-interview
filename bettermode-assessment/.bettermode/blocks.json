@@ -1,0 +1,20 @@
+{
+  "defaults": [
+    {
+      "key": "settings",
+      "interactionUrl": null,
+      "contexts": null
+    }
+  ],
+  "customs": [
+    {
+      "name": "Favorite posts",
+      "key": "favorite-posts",
+      "interactionUrl": null,
+      "contexts": null,
+      "description": null,
+      "favicon": null,
+      "image": "https://global-production-us-east-1.imgix.net/4yeqKGTzI1fRUgt7xQp64?fit=max&w=1000&auto=compress,format"
+    }
+  ]
+}

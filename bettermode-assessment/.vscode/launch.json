@@ -1,0 +1,35 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "node-terminal",
+            "request": "launch",
+            "name": "Dev bettermode-assessment",
+            "command": "yarn dev"
+        },
+        {
+            "type": "node-terminal",
+            "request": "launch",
+            "name": "Start bettermode-assessment",
+            "command": "yarn start"
+        },
+        {
+            "type": "node-terminal",
+            "request": "launch",
+            "name": "Test bettermode-assessment",
+            "command": "yarn test"
+        },
+        {
+            "type": "node-terminal",
+            "request": "launch",
+            "name": "Lint bettermode-assessment",
+            "command": "yarn lint"
+        },
+        {
+            "type": "node-terminal",
+            "request": "launch",
+            "name": "Lint:Fix bettermode-assessment",
+            "command": "yarn lint:fix"
+        }
+    ]
+}

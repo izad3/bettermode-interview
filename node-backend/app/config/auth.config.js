@@ -1,0 +1,3 @@
+module.exports = {
+  secret: "4A/aNUHTiNmZDh2dPPk4dVe+92o+uN4sY/vUjGZzrx+sYd4EYSFmVUQe4OB6E7lAk5z2PkUV/ymm5vRn3KFW3ad47TqYSQmI6QWQLqt6xPUniNJeHh3OEF9kJSuMrroYHye/4m3YlyKihp77sTFDnfWlsqze0/XJ0OyjPogo+n6B1a/ER4DSp6Lelu3Jq4rNNqNP9giGKjkLCfihOuhyhJJaIF++IhJVohJshmPm10oFnUMQe6MO54CEILmRaxMEEE8VhvAksjejFhIVoI1KjuuwuTBxgB4YDZCteNB/K49DSr2tjTAmng0PnNzmojZGoqS25zzn9llyCJeA/konFQ=="
+};
